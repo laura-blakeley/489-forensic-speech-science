@@ -1,2 +1,5 @@
 # Prompt in ElevenLabs sound effects studio:
 The noise of birdsong and motorway traffic in the background of a phone call
+
+# Text-to-speech text for voice clone to read out, from speaker 238 from LING416 coursework
+This is a test to see how much one of my human speaker's voices from LING416, 238, drifted from Ulster Scots to Standard Southern British English, Scots or American English after prompting ElevenLabs to apply a bandpass filtering-style effect to it. As expected, the voice clone became closer to SSBE than the original human speaker.
